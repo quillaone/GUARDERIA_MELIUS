@@ -1,0 +1,5 @@
+django == 3.2.8
+pip == 21.1.2
+djangorestframework==3.13.1
+django-filter==21.1
+
